@@ -16,3 +16,4 @@ def endpoint(input):
 def nameEndpoint():
     if 'name' in request.args:
     	return 'My name is ' + request.args['name']
+
