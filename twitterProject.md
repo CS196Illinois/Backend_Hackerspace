@@ -10,9 +10,9 @@ Make an API proxy for querying the Twitter API
 4) Deploy on Heroku
 
 ### Docs
-Getting Started: https://dev.twitter.com/ads/tutorials/getting-started
-Search API: https://dev.twitter.com/rest/public/search
-Making a RESTful API with Flask: http://blog.miguelgrinberg.com/post/designing-a-restful-api-with-python-and-flask
+Getting Started: https://dev.twitter.com/ads/tutorials/getting-started <br>
+Search API: https://dev.twitter.com/rest/public/search<br>
+Making a RESTful API with Flask: http://blog.miguelgrinberg.com/post/designing-a-restful-api-with-python-and-flask<br>
 
 ### Future Tasks
 1) Render template
