@@ -19,7 +19,7 @@ If you have extra time, you can also deploy live to Heroku. Read about it here: 
 
 If you have extra time, you can also implement Caching. Read about it here: https://docs.djangoproject.com/en/1.10/topics/cache/
 
-## API Docs
+## API Docs Example Template
 
 ![api docs](https://cloud.githubusercontent.com/assets/7456865/19990275/8df831b4-a1fa-11e6-8df2-97022fbbc621.png)
 
